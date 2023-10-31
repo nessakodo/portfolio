@@ -1,0 +1,10 @@
+{
+    "name": "nessakodo/nessakodo.com",
+    "description": "Portfolio",
+    "authors": [
+        {
+            "name": "nessa kodo"
+        }
+    ],
+    "require": {}
+}
